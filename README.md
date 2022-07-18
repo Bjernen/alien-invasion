@@ -1,2 +1,2 @@
 # Alien Invasion Project
-Alien Invasion Project from Python Crash Course
+Alien Invasion Project from Python Crash Course.
